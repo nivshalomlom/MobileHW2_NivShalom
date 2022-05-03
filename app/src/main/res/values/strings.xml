@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MobileHW2_NivShalom</string>
+
+    <string name="down_btn_label">down</string>
+    <string name="left_btn_label">left</string>
+    <string name="right_btn_label">right</string>
+    <string name="up_btn_label">up</string>
+
+    <string name="score_text_label">Score: %1$d</string>
+    <string name="lives_text_label">Lives: %1$d</string>
+    <string name="location_text_label">Location: %1$f, %2$f</string>
+
+    <string name="back_btn_label">Return</string>
+    <string name="retry_btn_label">Retry</string>
+
+    <string name="preference_file_key">Prefs</string>
+    <string name="google_maps_key" translatable="false">AIzaSyA2MZkhlOtXpgSiGskGUv2wieIRFR50b6k</string>
+    <string name="reset_map_label">Reset map</string>
+</resources>
